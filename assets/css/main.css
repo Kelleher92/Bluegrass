@@ -3560,6 +3560,19 @@
 			color: #636363;
 		}
 
+		#main .table-row{
+			height: 3rem;
+			line-height: 3rem;
+		}
+
+		#main .table-right{
+			width: 70%;
+		}
+
+		#main .table-left{
+			width: 30%;
+		}
+
 		#main header.major h2:after {
 			background-color: #dddddd;
 			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
